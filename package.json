@@ -13,7 +13,7 @@
     "body-parser": "^1.19.0",
     "cep-promise": "^3.0.9",
     "csv-parse": "^4.8.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fast-csv": "^2.5.0",
     "lodash": "^4.17.15",
     "moment": "^2.24.0",
